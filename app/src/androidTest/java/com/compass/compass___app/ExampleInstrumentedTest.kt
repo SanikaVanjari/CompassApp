@@ -1,4 +1,4 @@
-package com.compass.compassapp
+package com.compass.compass___app
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

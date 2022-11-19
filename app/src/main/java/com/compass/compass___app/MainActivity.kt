@@ -1,4 +1,4 @@
-package com.compass.compassapp
+package com.compass.compass___app
 
 import android.hardware.Sensor
 import android.hardware.SensorEvent
@@ -8,7 +8,7 @@ import android.os.Bundle
 import android.view.animation.Animation
 import android.view.animation.RotateAnimation
 import androidx.appcompat.app.AppCompatActivity
-import com.compass.compassapp.databinding.ActivityMainBinding
+import com.compass.compass___app.databinding.ActivityMainBinding
 import kotlin.math.roundToInt
 
 

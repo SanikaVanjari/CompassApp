@@ -1,4 +1,4 @@
-package com.compass.compassapp
+package com.compass.compass___app
 
 import org.junit.Test
 
