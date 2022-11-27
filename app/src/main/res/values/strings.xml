@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">CompassApp</string>
+    <string name="app_name">Compass App</string>
     <string name="heading">Heading: %1$s degrees</string>
     <string name="heading_0_0">Heading: 0.0</string>
 </resources>

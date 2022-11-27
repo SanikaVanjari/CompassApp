@@ -23,6 +23,7 @@ class MainActivity : AppCompatActivity(),SensorEventListener {
         super.onCreate(savedInstanceState)
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
+        supportActionBar?.title = resources.getString(R.string.app_name)
         sensorManage = getSystemService(SENSOR_SERVICE) as SensorManager?
     }
 
